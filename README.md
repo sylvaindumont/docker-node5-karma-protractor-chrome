@@ -1,4 +1,5 @@
-# Karma and Protractor in a docker container
+# Deprecated: use https://hub.docker.com/r/weboaks/node-karma-protractor-chrome/
+## Karma and Protractor in a docker container
 
 This image allows to run javascript tests in a headless machine like a CI server.
 
